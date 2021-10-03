@@ -1,6 +1,6 @@
 # Assignment #3 (Required)
 
-### Due Date: Wednesday 10/13 by end of day
+### Due Date: Monday 10/18 by end of day
 
 ### Topics covered
 
